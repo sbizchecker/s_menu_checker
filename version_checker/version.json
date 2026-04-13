@@ -1,9 +1,10 @@
 {
-  "latest_build_number": 2026040901,
-  "min_required_build_number": 2026040901,
-  "latest_version_name": "0.1.0",
-  "update_title": "S 메뉴 체커 v0.1.0 (build 2026040901)",
-  "update_message": "- 베타 버전입니다.",
+  "latest_build_number": 2026041301,
+  "min_required_build_number": 2026041301,
+  "latest_version_name": "0.1.2",
+  "latest_file": "s_menu_checker_{빌드번호}-{아키텍처}.apk",
+  "update_title": "S 메뉴 체커 v0.1.2 (build 2026041301)",
+  "update_message": "- 베타 버전입니다.\n즐겨찾기 기능이 추가되었습니다.",
   "system_notice": {
     "id": "2026040901",
     "is_active": true,
