@@ -12,18 +12,18 @@
 ## 다운로드 안내
 * **삼성 갤럭시 S6 이후 기기**  
 
-[s_menu_checker_2026040901-arm64-v8a.apk](https://github.com/sbizchecker/s_menu_checker/releases/download/v0.1.0-2026040901/s_menu_checker_2026040901-arm64-v8a.apk)
+[s_menu_checker_2026041301-arm64-v8a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301-arm64-v8a.apk)
 
 * 삼성 갤럭시 S6 이전 기기  
 
-[s_menu_checker_2026040901-armeabi-v7a.apk](https://github.com/sbizchecker/s_menu_checker/releases/download/v0.1.0-2026040901/s_menu_checker_2026040901-armeabi-v7a.apk)
+[s_menu_checker_2026041301-armeabi-v7a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301-armeabi-v7a.apk)
 
 * 설치가 안되거나 잘 모르는 경우  
 
-[s_menu_checker_2026040901.apk](https://github.com/sbizchecker/s_menu_checker/releases/download/v0.1.0-2026040901/s_menu_checker_2026040901.apk)
+[s_menu_checker_2026041301.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301.apk)
 
 모든 설치 파일은 **Releases** 페이지에서 내려받을 수 있습니다.
-- Releases: [https://github.com/sbizchecker/s_menu_checker/releases](https://github.com/sbizchecker/s_menu_checker/releases)
+- Releases: [https://github.com/sbizchecker/s_menu_checker/releases/latest](https://github.com/sbizchecker/s_menu_checker/releases/latest)
 
 ## 어떤 파일을 받아야 하나요?
 - **삼성 갤럭시 S6 이후 기기:** `...-arm64-v8a.apk`
