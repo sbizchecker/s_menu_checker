@@ -3,7 +3,7 @@
 
 이 앱은 영리 목적 없이, 임직원이 메뉴를 빠르고 편리하게 확인할 수 있도록 무료로 배포되는 비공식 식당 메뉴 애플리케이션입니다.
 
-**⚠️ 아직 개발 중인 베타 버전입니다. 현재 일부 식당만 지원되며, 일부 기능이 정상적으로 동작하지 않을 수 있습니다.**
+**⚠️ 아직 개발 중인 베타 버전입니다. 일부 기능이 정상적으로 동작하지 않을 수 있습니다.**
 
 ## 주요 기능
 - 사내 식당 메뉴 확인
@@ -12,15 +12,15 @@
 ## 다운로드 안내
 * **삼성 갤럭시 S6 이후 기기**  
 
-[s_menu_checker_2026041301-arm64-v8a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301-arm64-v8a.apk)
+[s_menu_checker_2026041501-arm64-v8a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041501-arm64-v8a.apk)
 
 * 삼성 갤럭시 S6 이전 기기  
 
-[s_menu_checker_2026041301-armeabi-v7a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301-armeabi-v7a.apk)
+[s_menu_checker_2026041501-armeabi-v7a.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041501-armeabi-v7a.apk)
 
 * 설치가 안되거나 잘 모르는 경우  
 
-[s_menu_checker_2026041301.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041301.apk)
+[s_menu_checker_2026041501.apk](https://github.com/sbizchecker/s_menu_checker/releases/latest/download/s_menu_checker_2026041501.apk)
 
 모든 설치 파일은 **Releases** 페이지에서 내려받을 수 있습니다.
 - Releases: [https://github.com/sbizchecker/s_menu_checker/releases/latest](https://github.com/sbizchecker/s_menu_checker/releases/latest)
