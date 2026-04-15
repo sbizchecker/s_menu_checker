@@ -1,17 +1,17 @@
 {
-  "latest_build_number": 2026041301,
-  "min_required_build_number": 2026041301,
-  "latest_version_name": "0.1.2",
+  "latest_build_number": 2026041501,
+  "min_required_build_number": 2026041501,
+  "latest_version_name": "0.5.0",
   "latest_file": "s_menu_checker_{빌드번호}-{아키텍처}.apk",
-  "update_title": "S 메뉴 체커 v0.1.2 (build 2026041301)",
-  "update_message": "- 베타 버전입니다.\n즐겨찾기 기능이 추가되었습니다.",
+  "update_title": "S 메뉴 체커 v0.5.0 (build 2026041501)",
+  "update_message": "- 베타 버전입니다.\n모든 식당이 추가되었습니다.",
   "system_notice": {
-    "id": "2026040901",
+    "id": "2026040501",
     "is_active": true,
     "forced": true,
     "title": "베타버전 안내",
-    "message": "베타 버전입니다.\n일부 식당만 제공됩니다.\n임시 디자인입니다.",
-    "start_time": "2026-04-09T00:00:00+09:00",
+    "message": "베타 버전입니다.\n일부 메뉴 표시가 비정상입니다.\n임시 디자인입니다.",
+    "start_time": "2026-04-05T00:00:00+09:00",
     "end_time": null
   }
 }
